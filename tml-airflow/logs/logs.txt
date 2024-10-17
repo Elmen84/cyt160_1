@@ -10784,3 +10784,16 @@ Already up to date.
 [INFO 2024-10-10_17:24:11] TML Solution Studio: git add . Status: 
 [INFO 2024-10-10_17:24:11] TML Solution Studio: git commit -a Status for project myfirsttssproject2-cd02: fatal: paths 'project ...' with -a does not make sense
 [INFO 2024-10-10_17:24:11] TML Solution Studio: git push Status for project myfirsttssproject2-cd02: Everything up-to-date
+[INFO 2024-10-17_16:37:18] TML Solution Studio Started: DOCKERUSERNAME=elmen.chu@gmail.com, GITUSERNAME=Elmen84, GITREPOURL=https://github.com/Elmen84/cyt160_1, AIRFLOWPORT=9000
+[INFO 2024-10-17_16:37:19] TML Solution Studio: Docker Login Status: Error response from daemon: Get "https://registry-1.docker.io/v2/": unauthorized: incorrect username or password
+[INFO 2024-10-17_16:37:19] TML Solution Studio: Github Config Status: core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/Elmen84/cyt160_1
+remote.origin.fetch=+refs/heads/main:refs/remotes/origin/main
+remote.origin.pushurl=https://<personal access token hidden>@github.com/Elmen84/cyt160_1.git
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+[INFO 2024-10-17_16:37:19] TML Solution Studio: Github Remote Status: origin	https://github.com/Elmen84/cyt160_1 (fetch)
+origin	https://<personal access token hidden>@github.com/Elmen84/cyt160_1.git (push)
